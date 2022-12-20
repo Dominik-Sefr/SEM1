@@ -1,0 +1,10 @@
+x=-10:0.1:10;
+y=sin(x);
+plot(x,y);
+y=cos(x);
+plot(x,y);
+y=tan(x);
+plot(x,y)
+x=-360:1:360;
+y=tand(x);
+plot(x,y)
